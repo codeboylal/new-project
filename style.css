@@ -1,0 +1,9 @@
+body{
+    margin: auto;
+    background-color: rgb(9, 126, 152);
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
